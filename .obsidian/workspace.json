@@ -170,15 +170,27 @@
   },
   "active": "0188695afcd5ad33",
   "lastOpenFiles": [
+    "_site/assets/js/lunr/lunr.min.js",
+    "_site/assets/js/lunr/lunr.js",
+    "_site/assets/js/lunr/lunr-store.js",
+    "_site/assets/js/lunr/lunr-gr.js",
+    "_site/assets/js/lunr/lunr-en.js",
+    "_site/images/${filename}/KakaoTalk_20250523_004723399_03.jpg",
+    "_site/assets/css/main.css.map",
+    "_site/assets/css/main.css",
+    "_site/assets/js/main.min.js.map",
+    "_site/assets/js/main.min.js",
+    "_site/assets/js/lunr",
+    "_site/images/KakaoTalk_20250323_214414200.jpg",
+    "_site/first/index.html",
+    "_site/images/KakaoTalk_20250323_214414200_01.jpg",
+    "_site/screenshot-layouts.png",
+    "_site/screenshot.png",
     "images/${filename}/KakaoTalk_20250523_004723399_03.jpg",
-    "images/${filename}",
     "images/KakaoTalk_20250323_214414200_01.jpg",
     "images/KakaoTalk_20250323_214414200.jpg",
-    "images",
     "KakaoTalk_20250323_214414200.jpg",
     "_posts/2025-06-02-first.md",
-    "KakaoTalk_20250323_214414200 2.jpg",
-    "KakaoTalk_20250323_214414200_01.jpg",
-    "KakaoTalk_20250323_214414200 1.jpg"
+    "KakaoTalk_20250323_214414200 2.jpg"
   ]
 }
