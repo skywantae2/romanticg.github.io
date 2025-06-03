@@ -1,5 +1,5 @@
 {
   "alwaysUpdateLinks": false,
-  "attachmentFolderPath": "images",
+  "attachmentFolderPath": "images/${filename}",
   "promptDelete": false
 }
